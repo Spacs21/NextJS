@@ -11,6 +11,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        agent: 'url(/agent1.png)',
+        agentTwo: 'url(/agent2.png)',
+        agentThree: 'url(/agent3.png)'
+      }
     },
   },
   plugins: [],
